@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CadastroClientes</string>
+    <string name="nome">Nome:</string>
+    <string name="sobrenome">Sobrenome:</string>
+    <string name="idade">Idade:</string>
+    <string name="email">E-mail:</string>
+    <string name="enviar">Enviar</string>
+    <string name="exibir_tela_roxa">Exibir tela roxa</string>
+    <string name="exibir_tela_vermelha">Exibir tela vermelha</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
